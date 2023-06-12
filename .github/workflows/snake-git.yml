@@ -3,12 +3,11 @@ name: 🐍 Generate Snake Contribution GIF
 on:
   workflow_dispatch: # Manual dispatch
   schedule:
-    - cron: '30 */23 * * *' # Runs at 23:30 every day.
+    - cron: '0 */24 * * *' # Runs at 24:00 every day.
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
