@@ -16,7 +16,6 @@ jobs:
           ref: ${{ github.head_ref }}
       - name: Generate Snake
         uses: Platane/snk/svg-only@v2
-#         uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -28,5 +27,5 @@ jobs:
         with:
           commit_message: ":snake: Updates Snake Contribution Animation"
 #           commit_user_name: Boston343
-          commit_user_email: bot@webreaper.dev
+#           commit_user_email: bot@webreaper.dev
 #           commit_author: Boston343 <bot@webreaper.dev>
