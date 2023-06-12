@@ -8,7 +8,7 @@
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@akashwho.codes-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/akashwho.codes/) -->
 <!-- [![Telegram Badge](https://img.shields.io/badge/-@AkashRajpurohit-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AkashRajpurohit) -->
 
-<img src="https://raw.githubusercontent.com/Boston343/Boston343/master/assets/github-snake-dark.svg" alt="github snake" />
+<img src="https://raw.githubusercontent.com/Boston343/Boston343/main/assets/github-snake-dark.svg" alt="github snake" />
 
 ### About Me
 
