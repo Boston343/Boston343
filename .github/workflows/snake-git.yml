@@ -5,7 +5,8 @@ on:
   schedule:
     - cron: '0 */24 * * *' # Runs at 24:00 every day.
 jobs:
-  generate:
+  snake:
+    name: Snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
