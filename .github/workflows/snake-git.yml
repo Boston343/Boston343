@@ -4,7 +4,7 @@ name: 🐍 Generate Snake Contribution GIF
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: 30 2 * * *
   
   # allows to manually run the job at any time
   workflow_dispatch:
