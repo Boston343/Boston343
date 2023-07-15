@@ -13,14 +13,14 @@
 
 ### About Me
 
-I am a website developer, focused on optimizing content websites using the most recent technologies and frameworks.
+I am a website developer with a passion for creating highly performant, content-focused sites. I use the latest technology, such as Astro, Solid.js, and Tailwind CSS, to create beautiful and engaging experiences for my users. I also write blog posts on Jamstack and front-end development.
 
 ### What I Do
 
-- 🛠 &nbsp; I'm currently developing stuff with JavaScript/TypeScript, Astro, React, Tailwind.
+- 🛠 &nbsp; I'm currently developing with JavaScript/TypeScript, Astro, Solid, and Tailwind.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Boston343).
-- 💬 &nbsp; I occasionally write blogs on [webreaper.dev](https://webreaper.dev/blog/)!
-- 📫 &nbsp; How to reach me: developer@webreaper.dev
+- 💬 &nbsp; I write blogs on Astro and frontend development on [webreaper.dev](https://webreaper.dev/posts/)!
+- 📫 &nbsp; How to reach me: me@webreaper.dev
 
 ### Languages and Tools
 
