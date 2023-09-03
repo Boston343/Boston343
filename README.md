@@ -1,4 +1,5 @@
-## Hi, I'm Web Reaper - a Computer Engineer 👨‍💻
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Web Reaper - A Website Developer
+==================================================================================================================================
 
 [![Website Badge](https://img.shields.io/badge/-webreaper.dev-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://webreaper.dev)
 [![Twitter Badge](https://img.shields.io/badge/-@BowTiedWebReapr-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/BowTiedWebReapr)
@@ -13,14 +14,16 @@
 
 ### About Me
 
-I am a website developer with a passion for creating highly performant, content-focused sites. I use the latest technology, such as Astro, Solid.js, and Tailwind CSS, to create beautiful and engaging experiences for my users. I also write blog posts on Jamstack and front-end development.
+I have a passion for creating effective, and highly performant content-focused sites. I use the latest technology, such as Astro and Tailwind CSS, to create engaging experiences. I also write blog posts on tips, tricks, and tools to help you level up your websites.
 
 ### What I Do
 
-- 🛠 &nbsp; I'm currently developing with JavaScript/TypeScript, Astro, Solid, and Tailwind.
+<!--- 🚀 &nbsp; I'm currently working on [Cosmic Themes](http://cosmicthemes.com/) -->
+- 🛠 &nbsp; I'm currently developing with Astro, Tailwind CSS, and JavaScript/TypeScript.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Boston343).
 - 💬 &nbsp; I write blogs on Astro and frontend development on [webreaper.dev](https://webreaper.dev/posts/)!
-- 📫 &nbsp; How to reach me: me@webreaper.dev
+- 📫 &nbsp; You can reach me at: me@webreaper.dev
+- 🤝 &nbsp; I'm open to collaborating on Astro projects and content
 
 ### Languages and Tools
 
@@ -33,6 +36,9 @@ I am a website developer with a passion for creating highly performant, content-
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 
+### Socials
+
+<p align="left"> <a href="https://www.codepen.io/Boston343" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Boston343" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/BowTiedWebReapr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 <!--
 **Boston343/Boston343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
