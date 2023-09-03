@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Web Reaper - A Website Developer
+Hi, I'm Web Reaper - A Computer Engineer
 ==================================================================================================================================
 
 [![Website Badge](https://img.shields.io/badge/-webreaper.dev-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://webreaper.dev)
