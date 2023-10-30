@@ -1,4 +1,4 @@
-Hi, I'm Web Reaper - A Computer Engineer
+Hi, I'm Web Reaper - I build website themes at CosmicThemes.com!
 ==================================================================================================================================
 
 [![Website Badge](https://img.shields.io/badge/-webreaper.dev-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://webreaper.dev)
@@ -18,7 +18,7 @@ I have a passion for creating effective, and highly performant content-focused s
 
 ### What I Do
 
-<!--- 🚀 &nbsp; I'm currently working on [Cosmic Themes](http://cosmicthemes.com/) -->
+- 🚀 &nbsp; Building Astro website themes at [Cosmic Themes](http://cosmicthemes.com/) 
 - 🛠 &nbsp; I'm currently developing with Astro, Tailwind CSS, and JavaScript/TypeScript.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Boston343).
 - 💬 &nbsp; I write blogs on Astro and frontend development on [webreaper.dev](https://webreaper.dev/posts/)!
