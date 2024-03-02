@@ -18,10 +18,10 @@ I have a passion for creating effective, and highly performant content-focused s
 
 ### What I Do
 
-- 🚀 &nbsp; Building Astro website themes at [Cosmic Themes](http://cosmicthemes.com/) 
-- 🛠 &nbsp; I'm currently developing with Astro, Tailwind CSS, and JavaScript/TypeScript.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Boston343).
-- 💬 &nbsp; I write blogs on Astro and frontend development on [webreaper.dev](https://webreaper.dev/posts/)!
+- 🚀 &nbsp; Building Astro website templates at [Cosmic Themes](http://cosmicthemes.com/) 
+- 🛠 &nbsp; I'm currently developing with Astro, Tailwind CSS, Keystatic, and JavaScript/TypeScript.
+- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/Boston343).
+- 💬 &nbsp; I write blogs on Astro and frontend development at [webreaper.dev](https://webreaper.dev/posts/)!
 - 📫 &nbsp; You can reach me at: me@webreaper.dev
 - 🤝 &nbsp; I'm open to collaborating on Astro projects and content
 
