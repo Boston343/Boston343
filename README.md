@@ -1,4 +1,4 @@
-Hi, I'm Web Reaper - I build website themes at CosmicThemes.com!
+Hi, I'm Web Reaper - Crafting website templates at cosmicthemes.com
 ==================================================================================================================================
 
 [![Website Badge](https://img.shields.io/badge/-webreaper.dev-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://webreaper.dev)
@@ -18,7 +18,7 @@ I have a passion for creating effective, and highly performant content-focused s
 
 ### What I Do
 
-- 🚀 &nbsp; Building Astro website templates at [Cosmic Themes](http://cosmicthemes.com/) 
+- 🚀 &nbsp; Building free and premium Astro website templates at [Cosmic Themes](http://cosmicthemes.com/) 
 - 🛠 &nbsp; I'm currently developing with Astro, Tailwind CSS, Keystatic, and JavaScript/TypeScript.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/Boston343).
 - 💬 &nbsp; I write blogs on Astro and frontend development at [webreaper.dev](https://webreaper.dev/posts/)!
