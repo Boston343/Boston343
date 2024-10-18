@@ -1,7 +1,7 @@
 Web Reaper - Creator of _out of this world_ website templates at cosmicthemes.com
 ==================================================================================================================================
 
-[![Website Badge](https://img.shields.io/badge/-webreaper.dev-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://webreaper.dev)
+[![Website Badge](https://img.shields.io/badge/-cosmicthemes.com-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cosmicthemes.com)
 [![Twitter Badge](https://img.shields.io/badge/-@BowTiedWebReapr-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/BowTiedWebReapr)
 ![](https://visitor-badge.laobi.icu/badge?page_id=boston343.visitor-badge&style=flat-square&color=0088cc)
 
