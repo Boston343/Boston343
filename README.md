@@ -4,7 +4,7 @@ Web Reaper - Creator of _out of this world_ website templates at cosmicthemes.co
 [![Website Badge](https://img.shields.io/badge/-cosmicthemes.com-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cosmicthemes.com)
 [![Twitter Badge](https://img.shields.io/badge/-@BowTiedWebReapr-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/BowTiedWebReapr)
 [![Instagram Badge](https://img.shields.io/badge/-@bowtiedwebreaper-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bowtiedwebreaper/)
-![](https://visitor-badge.laobi.icu/badge?page_id=boston343.visitor-badge&style=flat-square&color=0088cc)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=boston343.visitor-badge&style=flat-square&color=0088cc) -->
 
 <!-- <img src="https://raw.githubusercontent.com/Boston343/Boston343/output/git-snake-dark.svg" alt="github snake" /> -->
 <!-- <img src="https://raw.githubusercontent.com/Boston343/Boston343/main/assets/github-snake-dark.svg" alt="github snake" /> -->
