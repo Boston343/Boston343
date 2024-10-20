@@ -33,7 +33,7 @@ I have a passion for creating effective, and highly performant content-focused s
 ### Socials
 
 <p align="left">
-<a href="https://twitter.com/bowtiedwebreaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bowtiedwebreaper" height="30" width="40" /></a>
+<a href="https://twitter.com/BowTiedWebReapr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BowTiedWebReapr" height="30" width="40" /></a>
 <a href="https://instagram.com/bowtiedwebreaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bowtiedwebreaper" height="30" width="40" /></a>
 </p>
 
