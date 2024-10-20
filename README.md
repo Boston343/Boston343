@@ -6,11 +6,7 @@ Web Reaper - Creator of _out of this world_ website templates at cosmicthemes.co
 [![Instagram Badge](https://img.shields.io/badge/-@bowtiedwebreaper-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bowtiedwebreaper/)
 ![](https://visitor-badge.laobi.icu/badge?page_id=boston343.visitor-badge&style=flat-square&color=0088cc)
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-@AkashRajpurohit-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/AkashRajpurohit) -->
-<!-- [![Instagram Badge](https://img.shields.io/badge/-@akashwho.codes-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/akashwho.codes/) -->
-<!-- [![Telegram Badge](https://img.shields.io/badge/-@AkashRajpurohit-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AkashRajpurohit) -->
-
-<img src="https://raw.githubusercontent.com/Boston343/Boston343/output/git-snake-dark.svg" alt="github snake" />
+<!-- <img src="https://raw.githubusercontent.com/Boston343/Boston343/output/git-snake-dark.svg" alt="github snake" /> -->
 <!-- <img src="https://raw.githubusercontent.com/Boston343/Boston343/main/assets/github-snake-dark.svg" alt="github snake" /> -->
 
 ### About Me
@@ -22,7 +18,7 @@ I have a passion for creating effective, and highly performant content-focused s
 - 🚀 &nbsp; Building free and premium website templates at [Cosmic Themes](http://cosmicthemes.com/)  - built with Astro, Tailwind CSS, and Keystatic CMS
 - 🛠 &nbsp; I'm currently developing with Astro, Tailwind CSS, Keystatic, and JavaScript/TypeScript.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/Boston343).
-- 💬 &nbsp; I write blogs on Astro and frontend development at [webreaper.dev](https://webreaper.dev/posts/)!
+- 💬 &nbsp; I write blogs on Astro and frontend development at [cosmicthemes.com/blog](http://cosmicthemes.com/blog/) and [webreaper.dev](https://webreaper.dev/posts/)!
 - 📫 &nbsp; You can reach me at: me@webreaper.dev
 - 🤝 &nbsp; I'm open to collaborating on Astro projects and content
 
@@ -36,7 +32,10 @@ I have a passion for creating effective, and highly performant content-focused s
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/Boston343" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Boston343" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/BowTiedWebReapr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+<a href="https://twitter.com/@bowtiedwebreaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bowtiedwebreaper" height="30" width="40" /></a>
+<a href="https://instagram.com/bowtiedwebreaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bowtiedwebreaper" height="30" width="40" /></a>
+</p>
 
 <!--
 **Boston343/Boston343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
