@@ -9,38 +9,26 @@ Web Reaper - Software Engineer
 <!-- <img src="https://raw.githubusercontent.com/Boston343/Boston343/output/git-snake-dark.svg" alt="github snake" /> -->
 <!-- <img src="https://raw.githubusercontent.com/Boston343/Boston343/main/assets/github-snake-dark.svg" alt="github snake" /> -->
 
-### About Me
+## Cosmic Themes - [learn more](http://cosmicthemes.com/) 
 
-I have a passion for creating effective, and highly performant content-focused sites. I use the latest technology, such as Astro and Tailwind CSS, to create engaging experiences. I also write blog posts on tips, tricks, and tools to help you level up your websites.
+Get a huge jump start on your Astro projects with free and premium website templates at [Cosmic Themes](http://cosmicthemes.com/) - built with Astro, Tailwind CSS, and Keystatic CMS
 
-### What I Do
+- Multi-language i18n support with a language switcher component, helpers to translate routes and text, and more. Included with most templates.
+- Keystatic CMS integrated to allow non-technical editors to easily manage content, included with all premium templates.
+- Configuration scripts to get started in a flash
+  - `pnpm config-i18n` to set up language configuration - including setting up for one language only
+  - `pnpm remove-keystatic` to remove keystatic features and uninstall packages if not desired
+- Custom scroll-based animations that work with Astro View Transitions. All easily controlled via data attributes
+- SEO optimzed with built-in image compression, file minification, and relevant SEO meta tags and schema
+- Access to the private discord
+- Use on unlimited projects
+- Free updates
 
-- 🚀 &nbsp; Building free and premium website templates at [Cosmic Themes](http://cosmicthemes.com/)  - built with Astro, Tailwind CSS, and Keystatic CMS
-- 🛠 &nbsp; I'm currently developing with Astro, Tailwind CSS, Keystatic, and JavaScript/TypeScript.
-- 💬 &nbsp; I write blogs on Astro and frontend development at [cosmicthemes.com/blog](http://cosmicthemes.com/blog/) and [webreaper.dev](https://webreaper.dev/posts/)!
-- 📫 &nbsp; You can reach me at: me@webreaper.dev
-- 🤝 &nbsp; I'm open to collaborating on Astro projects and content
-<!-- - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/Boston343).-->
-
-### Languages and Tools
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" alt="astro"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png" alt="twailwind"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 
 <div align="left">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Boston343&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Boston343&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
-
-### Socials
-
-<p align="left">
-<a href="https://twitter.com/BowTiedWebReapr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BowTiedWebReapr" height="30" width="40" /></a>
-<a href="https://www.threads.net/@bowtiedwebreaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bowtiedwebreaper" height="30" width="40" /></a>
-</p> 
 
 <!--
 **Boston343/Boston343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
