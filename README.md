@@ -11,7 +11,7 @@ Web Reaper - Software Engineer
 
 ## Cosmic Themes - [learn more](http://cosmicthemes.com/) 
 
-Get a huge jump start on your Astro projects with free and premium website templates at [Cosmic Themes](http://cosmicthemes.com/) - built with Astro, Tailwind CSS, and Keystatic CMS
+Get a huge jump start on your Astro projects with free and premium website templates at [Cosmic Themes](http://cosmicthemes.com/) - built with Astro, Tailwind CSS, and optional git-based CMS.
 
 - Multi-language i18n support with a language switcher component, helpers to translate routes and text, and more. Included with most templates.
 - Keystatic CMS integrated to allow non-technical editors to easily manage content, included with all premium templates.
