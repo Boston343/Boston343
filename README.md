@@ -15,7 +15,7 @@ Helping freelancers and developers build faster and smarter.
 
 Stay up to date with my projects and learn with me:
 
-- Twitter (x): https://x.com/BowTiedWebReapr
+- Twitter (X): https://x.com/BowTiedWebReapr
 - Threads: https://www.threads.net/@bowtiedwebreaper
 
 <div align="left">
