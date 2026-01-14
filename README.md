@@ -8,8 +8,8 @@ Helping freelancers and developers build faster and smarter.
 
 ## 🛠️ Building
 
-- [Cosmic Themes](http://cosmicthemes.com/)  - Production-ready Astro templates to speed up freelance client projects.
-- [Starwind UI](http://starwind.dev/)  - Open-source, accessible UI components for Astro, styled with Tailwind CSS.
+- [Starwind UI](http://starwind.dev/)  - 42+ animated, customizable, and accessible UI components for Astro, Inspired by shadcn/ui with seamless CLI installation. Sidebar, Prose, Toast, Accordion, Combobox, and more.
+- [Starwind Pro](http://pro.starwind.dev/)  - 150+ interactive, accessible, and production-ready blocks build for Astro and Tailwind.
 
 ## 🌐 Follow me
 
