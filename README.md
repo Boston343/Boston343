@@ -9,7 +9,7 @@ Helping freelancers and developers build faster and smarter.
 ## 🛠️ Building
 
 - [Starwind UI](http://starwind.dev/)  - 45+ animated, customizable, and accessible UI components for Astro, Inspired by shadcn/ui with seamless CLI installation. Sidebar, Prose, Toast, Accordion, Combobox, and more.
-- [Starwind Pro](http://pro.starwind.dev/)  - 190+ interactive, accessible, and production-ready blocks build for Astro and Tailwind.
+- [Starwind Pro](http://pro.starwind.dev/)  - 200+ interactive, accessible, and production-ready blocks build for Astro and Tailwind.
 
 ## 🌐 Follow me
 
