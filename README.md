@@ -1,10 +1,7 @@
-Web Reaper - Software Engineer
+Branden
 ==================================================================================================================================
 
-Helping freelancers and developers build faster and smarter.
-
-<!-- <img src="https://raw.githubusercontent.com/Boston343/Boston343/output/git-snake-dark.svg" alt="github snake" /> -->
-<!-- <img src="https://raw.githubusercontent.com/Boston343/Boston343/main/assets/github-snake-dark.svg" alt="github snake" /> -->
+[![follow](https://shieldcn.dev/x/follow/boston343builds.svg?split=true)](https://x.com/boston343builds)
 
 ## 🛠️ Building
 
