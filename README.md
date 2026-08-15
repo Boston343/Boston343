@@ -5,7 +5,7 @@ Branden
 
 ## 🛠️ Building
 
-- [Starwind UI](http://starwind.dev/)  - 49+ animated, customizable, and accessible UI components for Astro, Inspired by shadcn/ui with seamless CLI installation. Sidebar, Prose, Toast, Accordion, Combobox, and more.
+- [Starwind UI](http://starwind.dev/)  - Framework-portable styled and primitive UI components for Astro and React. Install as source you own.
 - [Starwind Pro](http://pro.starwind.dev/)  - 230+ interactive, accessible, and production-ready blocks build for Astro and Tailwind.
 
 ## 🌐 Follow me
