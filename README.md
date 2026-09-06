@@ -5,7 +5,7 @@ Branden
 
 ## 🛠️ Building
 
-- [Starwind UI](https://starwind.dev/)  - 55 Framework-portable UI components for Astro and React. Install accessible Tailwind CSS components as source you own, backed by a shared framework-neutral Runtime.
+- [Starwind UI](https://starwind.dev/)  - 55 Framework-portable UI components for Astro, React, and Vue. Install accessible Tailwind CSS components as source you own, backed by a shared framework-neutral Runtime.
 - [Starwind Pro](https://pro.starwind.dev/)  - 230+ interactive, accessible, and production-ready components and blocks built for Astro and Tailwind.
 
 ## 🌐 Follow me
